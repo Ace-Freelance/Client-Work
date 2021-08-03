@@ -7,6 +7,10 @@
   <img alt="Readme Image" src="./images/readme-img1.PNG" />
 </div>
 
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) &nbsp;
+[![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com) &nbsp;
+[![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com) &nbsp;
+
 ## The Nine Society
 
 <div align="center">
